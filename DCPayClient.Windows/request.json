@@ -1,0 +1,11 @@
+{
+	"jUserId": "tyx",
+	"jUserIp": "127.0.0.1",
+	"jOrderId": "80f15c461b9446da942be81f2b0c2fa1",
+	"jExtra": "d091de28a842d2cfec397668a6b",
+	"orderType": 1,
+	"payWay": "AliPay",
+	"amount": 600.0,
+	"currency": "CNY",
+	"notifyUrl": null
+}

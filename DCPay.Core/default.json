@@ -1,0 +1,4 @@
+{
+  "DefaultWSSUrl": "wss://api.dcpay.vip/dcpay_exapi/websocket",
+  "DefaultPublicKeyString": "a8c5ce14c8c0b28c72cbcde86cfae3a13151276a418344231cd54ac2894b3665"
+}
