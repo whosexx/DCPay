@@ -1,6 +1,0 @@
-{
-  "AuthCode": "123456",
-  "Platform": "1",
-  "DefaultWSSUrl": "wss://test.n8.app:443",
-  "DefaultPublicKeyString": "a100b20e7edf9aaf117328451b32d6a6d7f6a7c5dd8b1cb9b4246fa8d54dff57"
-}
